@@ -19,7 +19,7 @@
 
 ## Авторы проекта <a id="authors"></a>
 Команда:
-
+<p align="left">
 - Product manager
   - vacant
     <img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100">
@@ -46,6 +46,8 @@
   - [Андрей Иванов](https://github.com/Mist3s)
     <img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="100">
     <br><br>
+
+</p>
 
 
 ## Стек технологий <a id="tools"></a>
