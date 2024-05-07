@@ -59,8 +59,8 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
 </a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Material_Design_In_The_Now_logo.svg" alt="mui" width="40" height="40"/>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub Actions" width="40" height="40"/>
 </a>
 </p>
 
