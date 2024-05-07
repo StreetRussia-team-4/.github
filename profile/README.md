@@ -57,12 +57,11 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-  <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
 </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
   <img src="https://mui.com/static/logo_raw.svg" alt="mui" width="40" height="40"/>
 </a>
-
 </p>
 
 
