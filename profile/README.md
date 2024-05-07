@@ -22,25 +22,25 @@
 
 - Product manager
   - vacant
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100">
     <br><br>
 
 - Project manager
   - Екатерина Пестова
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="100">
     <br><br>
 
 - Designers
   - Валерия Бургонова
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="300">
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="100">
     <br><br>
 
 - Frontend
   - [Ольга Аверьянова](https://github.com/OlgaOlgar47)
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="300">
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="100">
     <br><br>
   - [Елизавета Журавлева](https://github.com/Zhuuravel)
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="300">
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="100">
     <br><br>
 
 - Backend
