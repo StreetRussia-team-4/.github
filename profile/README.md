@@ -19,16 +19,13 @@
 
 ## Авторы проекта <a id="authors"></a>
 Команда:
-| Project manager     | Product manager     | Заголовок колонки 3 |Заголовок колонки 1  | Заголовок колонки 2 | Заголовок колонки 3 |
-|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-| Екатерина Пестова   | Строка 1, колонка 2 | Строка 1, колонка 3 | Строка 1, колонка 1 | Строка 1, колонка 2 | Строка 1, колонка 3 |
-| Строка 2, колонка 1 | Строка 2, колонка 2 | Строка 2, колонка 3 | Строка 1, колонка 1 | Строка 1, колонка 2 | Строка 1, колонка 3 |
 
-
-| Project manager     | Product manager     | Заголовок колонки 3 | Заголовок колонки 1 | Заголовок колонки 2 | Заголовок колонки 3 |
-|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-| Екатерина Пестова   | Строка 1, колонка 2 | Строка 1, колонка 3 | Строка 1, колонка 1 | Строка 1, колонка 2 | Строка 1, колонка 3 |
-| <img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="100"> | <img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100"> | Строка 2, колонка 3 | Строка 1, колонка 1 | Строка 1, колонка 2 | Строка 1, колонка 3 |
+| Project manager     | Product manager     | Designers           | Frontend            | Backend             | 
+|---------------------|---------------------|---------------------|---------------------|---------------------|
+| Екатерина Пестова   | null                | Валерия Бургонова   |  [Ольга Аверьянова](https://github.com/OlgaOlgar47)
+[Елизавета Журавлева](https://github.com/Zhuuravel)|  [Максим Баринов](https://github.com/CraftyPlonkton)
+[Андрей Иванов](https://github.com/Mist3s) | 
+| <img align="left" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="120"> | <img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="120"> | <img align="left" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="120"> | <img align="left" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="120"> | <img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="120"> | 
 
 
 
@@ -36,7 +33,7 @@
 <p align="left">
 - Product manager
   - vacant
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100">
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="120">
     <br><br>
 
 - Project manager
@@ -46,19 +43,19 @@
 
 - Designers
   - Валерия Бургонова
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="100">
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="120">
     <br><br>
 
 - Frontend
   - [Ольга Аверьянова](https://github.com/OlgaOlgar47)
   - [Елизавета Журавлева](https://github.com/Zhuuravel)
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="100">
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="120">
     <br><br>
 
 - Backend
   - [Максим Баринов](https://github.com/CraftyPlonkton)
   - [Андрей Иванов](https://github.com/Mist3s)
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="100">
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="120">
     <br><br>
 
 </p>
