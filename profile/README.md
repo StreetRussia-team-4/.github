@@ -60,7 +60,7 @@
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
 </a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Actions-icon.png" alt="GitHub Actions" width="40" height="40"/>
 </a>
 </p>
 
