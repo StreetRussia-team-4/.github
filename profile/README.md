@@ -18,7 +18,7 @@
 <br><br>
 
 ## Авторы проекта <a id="authors"></a>
-## Команда:
+Команда:
 
 - Product manager
   - vacant
@@ -37,19 +37,16 @@
 
 - Frontend
   - [Ольга Аверьянова](https://github.com/OlgaOlgar47)
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="100">
-    <br><br>
   - [Елизавета Журавлева](https://github.com/Zhuuravel)
     <img align="left" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="100">
     <br><br>
 
 - Backend
   - [Максим Баринов](https://github.com/CraftyPlonkton)
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300">
-    <br><br>
   - [Андрей Иванов](https://github.com/Mist3s)
-    <img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300">
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="100">
     <br><br>
+
 
 ## Стек технологий <a id="tools"></a>
 
