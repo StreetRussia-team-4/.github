@@ -13,11 +13,9 @@
 
 ## О проекте <a id="about"></a>
 
-<img src="https://i.gifer.com/68xg.gif" alt="Alt текст" width="300" height="200">
-
-![](https://i.gifer.com/WHGU.gif)
-
 Доработка текущего раздела сайта организации Улицы России и сборка прототипов, а также составление карты метрик и способа их измерения и повышения. 
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
+<br><br>
 
 ## Авторы проекта <a id="authors"></a>
 Команда:
@@ -27,19 +25,26 @@
 
 - Project manager
   - Екатерина Пестова
+    <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
+<br><br>
 
 - Designers
   - Валерия Бургонова
+    <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
+<br><br>
 
 - Frontend
   - [Ольга Аверьянова](https://github.com/OlgaOlgar47)
   - [Елизавета Журавлева](https://github.com/Zhuuravel)
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+<br><br>
 
 - Backend
-  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
-  <br><br>
+ 
   - [Максим Баринов](https://github.com/CraftyPlonkton)
   - [Андрей Иванов](https://github.com/Mist3s)
+   <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+  <br><br>
 
 ## Стек технологий <a id="tools"></a>
 
