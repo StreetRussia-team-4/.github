@@ -10,8 +10,6 @@
 5. [Функционал](#functional)
 6. [Установка зависимостей](#installation)
 7. [Запуск](#start)
-8. [Наполнение БД](#database)
-9. [Telegram бот](#bot)
 
 ## О проекте <a id="about"></a>
 
