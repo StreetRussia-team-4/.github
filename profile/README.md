@@ -60,7 +60,7 @@
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
 </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
-  <img src="https://mui.com/static/logo_raw.svg" alt="mui" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Material_Design_In_The_Now_logo.svg" alt="mui" width="40" height="40"/>
 </a>
 </p>
 
