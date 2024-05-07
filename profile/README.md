@@ -18,33 +18,38 @@
 <br><br>
 
 ## Авторы проекта <a id="authors"></a>
-Команда:
+## Команда:
 
 - Product manager
   - vacant
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+    <br><br>
 
 - Project manager
   - Екатерина Пестова
-    <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
-<br><br>
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
+    <br><br>
 
 - Designers
   - Валерия Бургонова
-    <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
-<br><br>
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="300">
+    <br><br>
 
 - Frontend
   - [Ольга Аверьянова](https://github.com/OlgaOlgar47)
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="300">
+    <br><br>
   - [Елизавета Журавлева](https://github.com/Zhuuravel)
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
-<br><br>
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="300">
+    <br><br>
 
 - Backend
- 
   - [Максим Баринов](https://github.com/CraftyPlonkton)
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300">
+    <br><br>
   - [Андрей Иванов](https://github.com/Mist3s)
-   <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
-  <br><br>
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300">
+    <br><br>
 
 ## Стек технологий <a id="tools"></a>
 
