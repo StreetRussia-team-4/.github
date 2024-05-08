@@ -1,6 +1,6 @@
 # MVP сайта общественной организации Улицы России
 
-[![alt](https://tenor.com/bjINt.gif)
+![alt](https://github.com/StreetRussia-team-4/.github/blob/main/IMG_4468.MP4)
 
 Посмотреть проект можно по этой ссылке 👉 [клик](streetrussia.github.io/frontend/)
 
