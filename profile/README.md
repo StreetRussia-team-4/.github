@@ -1,3 +1,11 @@
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
+
 # MVP сайта общественной организации Улицы России
 
 Посмотреть проект можно по этой ссылке 👉 [клик](streetrussia.github.io/frontend/)
