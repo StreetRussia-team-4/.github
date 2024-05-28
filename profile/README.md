@@ -8,9 +8,8 @@
 1. [О проекте](#about)
 2. [Авторы проекта](#authors)
 4. [Стек технологий](#tools)
-5. [Функционал](#functional)
-6. [Установка зависимостей](#installation)
-7. [Запуск](#start)
+5. [Установка и запуск](#installation)
+
 
 ## О проекте <a id="about"></a>
 
@@ -74,13 +73,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/ru)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
 
-## Функционал<a id="functional"></a>
+## Установка и запуск <a id="installation"></a>
 
-
-## Установка зависимостей для полного разворачивания проекта<a id="installation"></a>
-
-
-## Запуск <a id="start"></a>
+см. инструкции для фронтенда и бекенда в описании к репозиториям
 
 
 
